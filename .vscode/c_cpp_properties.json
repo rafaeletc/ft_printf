@@ -11,7 +11,10 @@
             "cppStandard": "c++11",
             "intelliSenseMode": "linux-gcc-x64",
             "browse": {
-                "limitSymbolsToIncludedHeaders": false
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/usr/include"
+                ]
             },
             "compilerArgs": [
                 "-Wall",
