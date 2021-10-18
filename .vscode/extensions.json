@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "ms-ceintl.vscode-language-pack-pt-br",
+        "dracula-theme.theme-dracula",
+        "kube.42header",
+        "mariusvanwijk-joppekoers.codam-norminette-3",
+        "ms-vscode.cpptools",
+        "jeff-hykin.better-cpp-syntax",
+        "aaron-bond.better-comments",
+        "sohamkamani.code-eol",
+        "pomdtr.excalidraw-editor"
+    ]
+}
