@@ -6,7 +6,7 @@
 /*   By: rde-lima <rde-lima@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/26 21:24:39 by rde-lima          #+#    #+#             */
-/*   Updated: 2021/11/14 19:46:07 by rde-lima         ###   ########.fr       */
+/*   Updated: 2021/11/14 20:12:59 by rde-lima         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -47,7 +47,7 @@ static int	ft_printp(unsigned long int n)
 	char		*base;
 	char		tmp;
 
-	if (!n)
+	if (!n && !IS_OSX)
 		return (ft_putstr("(nil)"));
 	size = 0;
 	base = "0123456789abcdef";
