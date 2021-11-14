@@ -10,7 +10,7 @@
     "editor.cursorSmoothCaretAnimation": true,
     "editor.fontLigatures": true,
     "diffEditor.wordWrap": "off",
-    "editor.minimap.enabled": false,
+    "editor.minimap.enabled": true,
     "files.associations": {
             "*.h": "c"
     },
@@ -28,5 +28,5 @@
     "42header.username": "rde-lima",
     "better-comments.highlightPlainText": true,
     "C_Cpp.autocompleteAddParentheses": true,
-    "C_Cpp.default.cStandard": "c11"
+    "C_Cpp.default.cStandard": "c11",
 }
