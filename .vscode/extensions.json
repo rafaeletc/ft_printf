@@ -9,6 +9,7 @@
         "aaron-bond.better-comments",
         "sohamkamani.code-eol",
         "pomdtr.excalidraw-editor",
-        "austin.code-gnu-global"
+        "austin.code-gnu-global",
+        "technosophos.vscode-make"
     ]
 }

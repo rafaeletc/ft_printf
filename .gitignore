@@ -52,7 +52,6 @@ Mkfile.old
 dkms.conf
 
 # Tests
-tests/
 printfTester/
 ft_printf_tester/
 
