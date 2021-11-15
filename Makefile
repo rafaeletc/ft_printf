@@ -6,7 +6,7 @@
 #    By: rde-lima <rde-lima@student.42sp.org.br>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/10/27 21:56:03 by rde-lima          #+#    #+#              #
-#    Updated: 2021/10/27 22:03:21 by rde-lima         ###   ########.fr        #
+#    Updated: 2021/11/14 20:28:14 by rde-lima         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -33,7 +33,7 @@ clean:
 	@echo "Clean done successfully!"
 
 fclean: clean
-	@rm -f $(NAME)
+	@rm -rf $(NAME)
 	@echo "Fclean done successfully!"
 
 re: fclean all
