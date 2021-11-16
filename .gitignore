@@ -54,6 +54,3 @@ dkms.conf
 # Tests
 printfTester/
 ft_printf_tester/
-
-# VSCode
-*.code-workspace

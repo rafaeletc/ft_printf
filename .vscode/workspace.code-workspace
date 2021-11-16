@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.h": "c"
+		},
+		"code-eol.color": "#9fced11f",
+		"workbench.colorCustomizations":
+		{
+			"editor.lineHighlightBackground": "#1073cf2d",
+			"editor.lineHighlightBorder": "#9fced11f"
+		},
+		"workbench.colorTheme": "Dracula Soft",
+		"terminal.integrated.defaultProfile.linux": "/usr/sbin/capsh (migrated)",
+		"terminal.integrated.fontFamily": "'FiraCode Nerd Font', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+		"42header.email": "rde-lima@student.42sp.org.br",
+		"42header.username": "rde-lima",
+		"better-comments.highlightPlainText": true,
+	}
+}
