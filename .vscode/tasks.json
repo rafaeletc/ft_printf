@@ -3,20 +3,19 @@
 	"tasks": [
 		{
 			"type": "cppbuild",
-			"label": "C/C++: gcc arquivo de build ativo",
+			"label": "ft_printf test",
 			"command": "/usr/bin/gcc",
 			"args": [
 				"-fdiagnostics-color=always",
 				"-g",
-				"${workspaceFolder}/ft_printf.c",
-				"${workspaceFolder}/ft_printf_utils.c",
 				"${file}",
 				"-o",
 				"${fileDirname}/${fileBasenameNoExtension}.out",
+				"-lftprintf",
+				"-L${workspaceFolder}/",
 				"-Wall",
 				"-Wextra",
 				"-Werror"
-
 			],
 			"options": {
 				"cwd": "${fileDirname}"
