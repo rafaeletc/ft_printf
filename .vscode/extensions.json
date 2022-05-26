@@ -1,16 +1,9 @@
 {
     "recommendations": [
         "ms-ceintl.vscode-language-pack-pt-br",
-        "dracula-theme.theme-dracula",
+        "llvm-vs-code-extensions.vscode-clangd",
+        "vadimcn.vscode-lldb",
         "kube.42header",
-        "ms-vscode.cpptools",
-        "aaron-bond.better-comments",
-        "technosophos.vscode-make",
-        "dalexhd.42-norminette",
-        "usernamehw.errorlens",
-        "mhutchie.git-graph",
-        "jeff-hykin.code-eol",
-        "cschlosser.doxdocgen",
-        "austin.code-gnu-global"
+        "mariusvanwijk-joppekoers.codam-norminette-3"
     ]
 }
