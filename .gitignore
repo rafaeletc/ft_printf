@@ -54,3 +54,9 @@ dkms.conf
 # Tests
 printfTester/
 ft_printf_tester/
+
+# logs
+*.log
+
+compile_commands.json
+.cache
